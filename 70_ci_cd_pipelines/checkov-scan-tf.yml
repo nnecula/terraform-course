@@ -15,7 +15,7 @@ variables:
   value: $(System.DefaultWorkingDirectory)/13_storage_blob 
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: MacPool
 
 steps:
 
